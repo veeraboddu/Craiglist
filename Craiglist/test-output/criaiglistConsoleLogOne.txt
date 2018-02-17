@@ -1,0 +1,247 @@
+Feature: San Francisco Bay Craigslist site Taskone
+Starting ChromeDriver 2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f) on port 29361
+Only local connections are allowed.
+Feb 17, 2018 10:24:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Successful open browser enter craigslist url
+Successful check_home_page_titlecraigslist: SF bay area jobs, apartments, personals, for sale, services, community, and events
+Successful Enter tex in search field
+$1280
+Feb 17 17X9 Brand new rims and mud tires for 6 lug chevy gmc toyota $1280
+$1280
+Feb 17 17x9 BRAND NEW RIMS AND MUD TIRES 6 LUG CHEVY GMC TOYOTA $1280
+$1350
+Feb 17 17x9 ATX bronze rims and mud tires brand new 6 lug chevy gmc toyota $1350
+$9400
+Feb 17 2010 Toyota Prius 5 limited $9400 $9400 (sunnyvale)
+Feb 17 1998 Toyota Sienna Front right fender $45 (healdsburg / windsor)
+Feb 17 Prius 2005-9 Hatch strut Brand new $12 (santa rosa)
+$15
+Feb 17 Prius 09-12 Wheel cover $15 (healdsburg / windsor)
+$650
+Feb 17 16"RIMS+TIRES HONDA TOYOTA NISSAN LEXUS MAZDA MITSUBISHI ACURA FORD $650 (ACE TIRE SUNNYVALE(650)254-0300 CALL TOD)
+$5500
+Feb 17 TOYOTA SEQUOIA $5500
+Feb 17 Toyota Roof Cargo Cross Bar Roof Rack For 2018 (C-HR) (san jose west)
+$50
+Feb 17 1988 TOYOTA COROLLA LEFT & RIGHT REAR SEAT BELT $50 (san mateo)
+$3900
+Feb 17 2000 Toyota Camry LE 4 Cylinder, Lo Miles $3900 (Castro Valley)
+Feb 17 Toyota Corolla $3950 (berkeley)
+$3500
+Feb 17 2004 TOYOTA CAMRY LE $3500 (fremont / union city / newark)
+$1350
+Feb 17 17x9 ATX bronze rims and mud tires brand new 6 lug chevy gmc toyota $1350
+$1280
+Feb 17 17x9 BRAND NEW RIMS AND MUD TIRES 6 LUG CHEVY GMC TOYOTA $1280
+$1350
+Feb 17 17x9 ATX bronze rims and mud tires brand new 6 lug chevy gmc toyota $1350
+$125
+Feb 17 Brand New Genuine Toyota Blower Motor Parts#G9230-76010 $125 (san mateo)
+$125
+Feb 17 Brand New Genuine Toyota Blower Motor Parts#G9230-76010 $125 (san mateo)
+$80
+Feb 17 Toyota Camry/Solara Idle Control Valve $80 (san mateo)
+$14000
+Feb 17 2006 Toyota Tacoma TRD PreRunner with upgrades and new tires $14000 (fairfield / vacaville)
+$11900
+Feb 17 2013 Toyota Prius C Excellent Cond, Low Miles with 7 Years Warranty $11900 (dublin / pleasanton / livermore)
+$3299
+Feb 17 20" FUEL WHEELS & TIRES W/ LIFT KIT FOR TOYOTA TUNDRA INSTALLED $3299 (WE FINANCE! ? NO CREDIT NEEDED)
+$6200
+Feb 17 2007 Toyota Camry le $6200 (fremont / union city / newark)
+$125
+Feb 17 Brand New Genuine Toyota Blower Motor Parts#G9230-76010 $125 (san mateo)
+$8400
+Feb 17 2010 Toyota Camry LE $8400 (walnut creek)
+$3900
+Feb 17 2002 Toyota Tundra!!! 5 Speed manual!!! $3900 (fremont / union city / newark)
+Feb 17 CHEVROLET FORD DODGE LIFT KIT LEVEL KIT OFF ROAD WHEELS TIRES TOYOTA (WE FINANCE! ? NO CREDIT NEEDED)
+$4500
+Feb 17 2004 Toyota Sequoia SR5 $4500 (fremont / union city / newark)
+$25
+Feb 17 1988 TOYOTA COROLLA FRONT RIGHT PASSENGER SEAT BELT $25 (san mateo)
+$11900
+Feb 17 White 2007 Toyota Hybrid Highlander LOW MILEAGE $11900 (redwood city)
+$12200
+Feb 17 2015 Toyota Prius $12200
+Feb 17 2016 Toyota Camry SE Sedan Camry Toyota (2016 Toyota Camry SE)
+Feb 17 2016 Toyota Corolla Sedan Corolla Toyota (2016 Toyota Corolla)
+$5500
+Feb 17 2006 Toyota Camry LE*Clean Title*ONE Owner*Power Seat*Automatic $5500 (fremont / union city / newark)
+$5900
+Feb 17 Toyota solara convertible 122k new top , great conditions $5900 (santa rosa)
+$750
+Feb 17 front wheel hub, drum and axle, toyota forklift diesel fd40 $750 (richmond / point / annex)
+$15
+Feb 17 TOYOTA COROLLA.... 98-00 HUBCAPS .. 14 INCH... NEW $15 (san jose south)
+$4200
+Feb 17 2005 toyota prius $4200 (daly city)
+$4000
+Feb 17 1998 4RUNNER FOR SALE $4000 (concord / pleasant hill / martinez)
+$4500
+Feb 17 96 Tacoma 4x4 on 32's $4500 (Tracy)
+$1200
+Feb 17 2017 TOYOTA Tacoma TRD off ROAD wheels w/ BFG tires NEW!! $1200 (concord / pleasant hill / martinez)
+$11500
+Feb 17 2005 TOYOTA PICKUP ONE OWNER $11500 (East Bay)
+$11500
+Feb 17 2005 TOYOTA PICKUP ONE OWNER $11500 (East Bay)
+Feb 17 2015 Toyota Prius Four HB ~Certified~LOADED~PERFECT Carfax~ (1st Time Buyers Welcome 855-527-1616!!)
+$425
+Feb 17 Toyota Tacoma Predator Steps OEM $425 (rohnert pk / cotati)
+Feb 17 2018 2017 Toyota Corolla Headlight oem $280 (san leandro)
+$21000
+Feb 17 2017 TOYOTA TACOMA 4X2 4 CYL LOW MI $21000 (gilroy)
+Feb 17 COROLLA TOYOTA 1998 1999 2000 FRONT BUMPER (san jose west)
+$4000
+Feb 17 2006 toyota corolla LE !!gas saver!! $4000 (santa clara)
+$100
+Feb 17 Black WeatherTech FloorLiners - 2012 Toyota Highlander $100 (potrero hill)
+$4599
+Feb 17 Toyota Corolla LE 79K Miles!!!!! $4599 (south san francisco)
+$5850
+Feb 17 Toyota Tacoma TRD Beautiful $5850 (hayward / castro valley)
+Feb 17 Wanted Toyota Honda Lexus Acura " Running or Not " (Bay Area)
+$6900
+Feb 17 Toyota Prius $6900
+Feb 17 Wanted cars Honda Nissan Toyota in good or bad condition (Mechanical body damage)
+$2550
+Feb 17 TOYOTA CAMRY 1999 LE $2550 (san jose north)
+$3700
+Feb 17 2001 Toyota Camry xle $3700 (hayward / castro valley)
+$4599
+Feb 17 Toyota Corolla LE 79K Miles!!!!! $4599 (south san francisco)
+$14750
+Feb 17 Excellent Condition 2014 Toyota Prius - High MPG $14750 (fremont / union city / newark)
+$7400
+Feb 17 ** 2008 Toyota Camry XLE Hybrid*Low miles*New Hybrid Batt!*Loaded* $7400 (Berkeley/Emeryville/North Oakland)
+$8900
+Feb 17 2012 Toyota Rav4 $8900 (dublin / pleasanton / livermore)
+$15586
+Feb 17 2013 Toyota Prius Three SKU:D5679606 Hatchback $15586 (Please call *510-210-3371* to Confirm Availability Instantly)
+Feb 17 Wanted Toyota , Highlander, Sienna ,Land Cruiser ,Acura ,Lexus , Honda (San Jose / Bay Area)
+$14750
+Feb 17 Super Clean Condition 2014 Toyota Prius - High MPG $14750 (san mateo)
+$2550
+Feb 17 TOYOTA CAMRY 1999 LE $2550 (san jose north)
+$3650
+Feb 17 2005 Toyota Camry LE $3650
+$3650
+Feb 17 2005 Toyota Camry LE $3650
+$30
+Feb 17 Spare wheel cover for Toyota RAV4 $30 (sunnyvale)
+$15800
+Feb 17 2004 Toyota Tundra Limited Double cab $15800 (lafayette / orinda / moraga)
+$5950
+Feb 17 Toyota Sienna LE 2007 $5950
+$150
+Feb 17 One NEW HOT ROD,Truck,Van Minivan Reclining Bucket Seat,Grey $150 (burlingame)
+$6400
+Feb 17 2002 Toyota RAV4 SUV Automatic $6400 (santa rosa)
+$150
+Feb 17 NEW Factory Van Minivan Reclining Bucket Seat,Grey $150 (burlingame)
+$5850
+Feb 17 2010 Toyota Corolla S Sedan (One Owner/Clean Title/Runs Excellent) $5850 (fremont / union city / newark)
+$3500
+Feb 17 2005 Toyota Matrix XR - no accidents, clean title, all service records $3500 (san jose west)
+$3000
+Feb 17 1992 Toyota ForeRunner $3000 (santa clara)
+$6400
+Feb 17 Toyota Prius Touring pckg 6 $6400
+$1
+Feb 17 Truck for sale or trade for Toyota pickup $1 (santa rosa)
+$1300
+Feb 17 1996 Toyota Tacoma $1300 (san jose east)
+$5500
+Feb 17 2007 Toyota Sienna in GOOD condition!! $5500 or best offer $5500 (santa cruz)
+$5500
+Feb 17 2006 Toyota Sienna LE , Clean Title , All Service & Timing Belt Done $5500 (hayward / castro valley)
+$12850
+Feb 17 2013 Toyota Prius III, Loaded! Immaculate Condition! SALE!! $12850 (*2013* *Toyota* *Prius* *III,* *Loaded!* *Immacula)
+$1100
+Feb 17 Toyota Camry Solara Rav4 Scion TC JDM 2AZ-FE 2.4L VVTI ENGINE $1100 (fairfield / vacaville)
+$50
+Feb 17 Toyota Tacoma prerunner 16" rims /tires $50 (concord / pleasant hill / martinez)
+$2550
+Feb 17 TOYOTA CAMRY 1999 LE $2550 (san jose north)
+$5600
+Feb 17 1989 Toyota pickup $5600 (hayward / castro valley)
+$3300
+Feb 17 2005 PONTIAC VIBE TOYOTA MATRIX RUNS GREAT $3300 (hayward / castro valley)
+$6900
+Feb 17 2012 Toyota Yaris LE,AT,AC,All power,79K-Miles $6900 (pittsburg / antioch)
+$3900
+Feb 17 TOYOTA CAMRY SE 4 CYLINDER AUTOMATIC RUNS GREAT $3900 (millbrae)
+$1
+Feb 17 Want to buy Toyota Sienna 2000-2006 Low mile $1 (albany / el cerrito)
+$6300
+Feb 17 2006 Toyota Avalon Touring Edition $6300 (vallejo / benicia)
+$3600
+Feb 17 2003 Toyota Camry LE $3600 (fremont / union city / newark)
+Feb 17 2012 Black Toyota Camry SE Sedan ~LOADED w/ Clean Carfax~ (No Credit?? No Problem!! 855-527-1616!!)
+Feb 17 2015 *Toyota Tundra* truck SR5 (Super White) (Toyota_ Tundra_ truck_)
+$15500
+Feb 17 2016 Toyota Camry SE Black Clean title $15500 (san leandro)
+$30
+Feb 17 Toyota Xenon ballast oem $30 (fremont / union city / newark)
+$8950
+Feb 17 2014 Toyota Prius C $8950 (fremont / union city / newark)
+$6800
+Feb 17 2007 Toyota Camry LE $6800 (Castro Valley)
+$7500
+Feb 17 2010 Toyota Prius $7500 (vallejo / benicia)
+Feb 17 2015 Toyota Corolla Parts (san leandro)
+Feb 17 toyota 4 runner power steering rack ,pinion ass. $100 (sebastopol)
+$24999
+Feb 17 95 Toyota Supra se $24999 (sac)
+$5950
+Feb 17 2009 Toyota Corolla Matrix S (One Owner/Clean Title/Runs Excellent) $5950 (fremont / union city / newark)
+$30
+Feb 17 Drum Brake - Shoe Kit $30 (concord / pleasant hill / martinez)
+$3000
+Feb 17 2001 TOYOTA CAMRY 4 cilindros $3000 (SAN LEANDRO)
+Feb 17 2008 Toyota Prius Parting Out (san leandro)
+$5000
+Feb 17 Toyota pick up truck $5000 (san rafael)
+$280
+Feb 17 LEVELING KITS****$280.00***FORD***DODGE***CHEVY***TOYOTA***NISSAN* $280 (WHEELS-TIRES-LIFTSLEVL KITS-WE FINANCE)
+$100
+Feb 17 2012-15 Toyota Tacoma Grill $100 (napa county)
+$2850
+Feb 17 1999 Toyota Camry low miles $2850 (hayward / castro valley)
+$2500
+Feb 17 Toyota pick up(King cap) $2500 (san rafael)
+$6799
+Feb 17 2007 Toyota Rav4, 4x4 V6. Sports. Clean Title. Excellent Condition. $6799 (san jose south)
+$9200
+Feb 17 2015 Toyota Prius Great Shape Price Reduced $9200 (Sacramento)
+$40
+Feb 17 2006 Toyota Highlander Retractible trunk cover $40 (aptos)
+$5300
+Feb 17 Toyota pick up truck $5300 (san jose downtown)
+$350
+Feb 17 2008 TOYOTA TACOMA TIRES/WHEEL $350 (morgan hill)
+$60
+Feb 17 2005-2010 Scion TC Front Bumper Lower Grill W/Fog Light Holes OEM $60 (Bay Point)
+$9200
+Feb 17 2015 Prius Toyota Excellent Car! $9200 (Sacramento)
+$100
+Feb 17 Scion TC 05 06 07 08 09 10 OEM Headlight Assembly Set $100 (Bay Point)
+Successful clicking_Savesearch_button
+Successful entered logindetails
+Successful entered myaccount page
+true
+
+  Scenario: San Francisco Bay Craigslist Taskone           # C:/Gene_Regulatary_Backup/Java GPRSTest/workspace/Craiglist/src/main/java/feature/craiglistUITaskOne.feature:3
+    Given open browser enter craigslist url Taskone        # CraiglistUIStepDefinitionsTaskOne.open_browser_enter_craigslist_url_Taskone()
+    When check home page title Taskone                     # CraiglistUIStepDefinitionsTaskOne.check_home_page_title_Taskone()
+    Then perform search for toyota Taskone                 # CraiglistUIStepDefinitionsTaskOne.perform_search_for_toyota_Taskone()
+    Then print all ad titles from page to console Taskone  # CraiglistUIStepDefinitionsTaskOne.print_all_ad_titles_from_page_to_console_Taskone()
+    Then Save search by clicking Savesearch button Taskone # CraiglistUIStepDefinitionsTaskOne.save_search_by_clicking_Savesearch_button_Taskone()
+    Then provide logindetails Taskone                      # CraiglistUIStepDefinitionsTaskOne.provide_logindetails_Taskone()
+    Then verify search was saved Taskone                   # CraiglistUIStepDefinitionsTaskOne.verify_search_was_saved_Taskone()
+
+1 Scenarios (1 passed)
+7 Steps (7 passed)
+0m14.280s

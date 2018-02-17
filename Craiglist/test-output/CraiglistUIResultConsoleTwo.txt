@@ -1,0 +1,31 @@
+Feature: San Francisco Bay Craigslist site Tasktwo
+Starting ChromeDriver 2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f) on port 4314
+Only local connections are allowed.
+Feb 17, 2018 10:31:01 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Successful open browser enter craigslist url
+Successful check_home_page_titlecraigslist: SF bay area jobs, apartments, personals, for sale, services, community, and events
+Successful clicked on my account link
+Successful entered logindetails
+Successful clicked on searches tab
+Successful clicked on edit button
+true
+Successful clicked on delete button
+true
+
+  Scenario: San Francisco Bay Craigslist Tasktwo    # C:/Gene_Regulatary_Backup/Java GPRSTest/workspace/Craiglist/src/main/java/feature/craiglistUITaskTwo.feature:3
+    Given open browser enter craigslist url Tasktwo # CraiglistUIStepDefinitionsTaskTwo.open_browser_enter_craigslist_url_Tasktwo()
+    When check home page title Tasktwo              # CraiglistUIStepDefinitionsTaskTwo.check_home_page_title_Tasktwo()
+    Then click on my account Tasktwo                # CraiglistUIStepDefinitionsTaskTwo.click_on_my_account_Tasktwo()
+    Then provide logindetails Tasktwo               # CraiglistUIStepDefinitionsTaskTwo.provide_logindetails_Tasktwo()
+    Then open Searches tab Tasktwo                  # CraiglistUIStepDefinitionsTaskTwo.open_Searches_tab_Tasktwo()
+    Then click on edit search Tasktwo               # CraiglistUIStepDefinitionsTaskTwo.click_on_edit_search_Tasktwo()
+    Then change name to toyota prius Tasktwo        # CraiglistUIStepDefinitionsTaskTwo.change_name_to_toyota_prius_Tasktwo()
+    Then click save Tasktwo                         # CraiglistUIStepDefinitionsTaskTwo.click_save_Tasktwo()
+    Then verify name Tasktwo                        # CraiglistUIStepDefinitionsTaskTwo.verify_name_Tasktwo()
+    Then click delete Tasktwo                       # CraiglistUIStepDefinitionsTaskTwo.click_delete_Tasktwo()
+    Then search was deleted Tasktwo                 # CraiglistUIStepDefinitionsTaskTwo.search_was_deleted_Tasktwo()
+
+1 Scenarios (1 passed)
+11 Steps (11 passed)
+0m9.681s
